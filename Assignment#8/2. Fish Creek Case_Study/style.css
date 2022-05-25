@@ -1,0 +1,112 @@
+body{
+
+            color: #003366;
+            font-family: Verdana, Arial, sans-seif;
+            width: 1400px;
+            margin-left: 300px;
+                                                              }
+
+*{
+  box-sizing: border-box;
+}
+
+header{
+
+            color: #F0F0F0;
+            background-image: url(bigfish.gif);
+            background-size: 1000px;
+            background-repeat: no-repeat;
+            background-position: center;
+            text-align: center;
+            font-size: 3em;
+            text-shadow: #CCCCCC;
+            background-color: #000066;
+
+                                                              }
+
+h1{
+
+            color: #AEC3E3;
+            font-family: serif, Georgia, "Times New Roman";
+            line-height: 250%;
+            text-indent: 1em;
+            background-image: url(fishcreeklogo.gif);
+            background-repeat: no-repeat;
+            text-align: center;
+            background-position: center;
+                                                                }
+
+
+nav{
+            font-weight: bold;
+            float: left;
+            margin-top: -65px;
+            height: 315px;
+            width: 180px;
+            padding: 5px;
+            background-color: #F0F0F0;
+                                                                }
+
+
+dt{         color: #5280C5;
+            font-size: 1.1em;
+            font-family: serif, Georgia, "Times New Roman";
+                                                                }
+
+
+.category{
+
+            font-weight: bold;
+            color: #5380C5;
+            font-family: serif, Georgia, "Times New Roman";
+            text-shadow: 1px, 1px, 1px, #667;
+                                                                }
+
+footer{
+            font-size: .70em;
+            font-style: italic;
+            text-align: center;
+            background-color: #AEC3E3;
+            padding: 1em;
+            margin-left: 180px;
+
+                                                                }
+
+header, nav, main, footer {display: block;}
+
+
+main{
+
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-left: 180px;
+            padding-left: 2em;
+            padding-right: 2em;
+            background-color: white;
+            border: 1px solid #AEC3E3;
+            padding-top: 10px;
+            margin-top: -65px;
+
+
+}
+
+#service {
+
+            color:#000000;
+
+            font-family: serif, Georgia, "Times New Roman";
+
+                                                                }
+
+
+img{
+
+
+            border: none;                                                 }
+
+
+nav a:hover{ color: #3262A3;}
+nav a:visited{ color: #5280C5;}
+nav a:link{color: #000066; }
+
+#ask{ height: 265px;}

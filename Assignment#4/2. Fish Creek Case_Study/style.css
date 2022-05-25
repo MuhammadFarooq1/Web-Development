@@ -1,0 +1,89 @@
+body{
+            background-color: #FFFFFF;
+            color: #003366;
+            font-family: Verdana, Arial, sans-seif;
+         
+
+ header{
+         color: #F0F0F0;
+         background-image: url(fishcreeklogo.gif);
+         background-repeat: no repeat;
+          background-position: center;
+          text-align : center;
+                               
+                                                     }
+
+
+h1{
+            background-color: #003366;
+            color: #AEC3E3;
+            font-family: serif, Georgia, "Times New Roman";
+            line-height: 250%;
+            text-indent: 1em;
+            background-image: url(fishcreeklogo.gif);
+            background-repeat: no-repeat;
+            text-align: center;
+            background-position: center;
+                                                                }
+
+  nav{
+      font-weight: bold;
+      text-align: center;
+      background-color: #5280C5;
+     padding: 5px;
+                   }
+
+
+dt{         color: #5280C5;
+            font-weight: bold;
+            font-size: 1.1em;
+            font-family: serif, Georgia, "Times New Roman";
+
+                                                                }
+.category{
+
+            font-weight: bold;
+            color: #5380C5;
+            font-family: serif, Georgia, "Times New Roman";
+            text-shadow: 1px, 1px, 1px, #667;
+                                                                }
+
+footer{
+            font-size: .70em;
+            font-style: italic;
+            text-align: center;
+            background-color: #AEC3E3;
+
+                                                                }
+
+main{
+
+            padding-left: 10px;
+            padding-right: 10px;
+
+                                                                }
+#wrapper{
+
+            margin-right: auto;
+            margin-left: auto;
+            width: 80%;
+          min-width: 700px;                                       }
+
+#service {
+
+            color:#000000;
+            font-size: .70em;
+            font-family: serif, Georgia, "Times New Roman";
+
+                                                                }
+
+img{
+
+
+            border: none;                                                 }
+
+
+footer nav{
+
+          background-color: #F0F0F0;
+}

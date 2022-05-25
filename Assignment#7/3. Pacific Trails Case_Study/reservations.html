@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+  <title>Pacific Trails Resort</title>
+</head>
+
+<body>
+  <header>
+    <h1>Pacific Trails Resort</h1>
+  </header>
+
+  <nav>
+    <br>
+    <a href="index.html">Home</a> <br><br>
+    <a href="yurts.html">Yurts</a> <br><br>
+    <a href="activities.html">Activities</a> <br><br>
+    <a href="reservations.html">Reservations</a> <br>
+  </nav>
+
+  <main>
+    <div id="content">
+
+      <form method="get">
+    <label>Name: <input type="text" name="name" id="name"></label><br><br>
+    <label>E-mail: <input type="text" name="email" id="email" required></label><br><br>
+    <label>Phone: <input type="number" name="phno" id="phno" required></label><br><br>
+    <label>Arrival Date: <input type="date" name="date" id="date" required></label><br><br>
+    <section>
+     
+       <label for="nights"> Nights</label>
+ 
+     <select class="nights" name="nights">
+ <option value="1">Select Nights</option>
+ <option values="1">1</option>
+<option values="2">2</option>
+<option values="3">3</option>
+<option values="4">4</option>
+<option values="5">5</option>
+
+
+      </select>
+    </section>
+    <label for="comments">Comments:</label><br>
+    <textarea name="comments" id="comments" rows="4" cols="40"></textarea><br><br>
+    <input type="submit" value="Submit">
+    </form>
+
+    </div>
+
+  </main>
+
+  <footer>
+    Copyright &copy 2021 Pacific Trails Resort<br>
+    <a href="gmail.com">Random@umt.edu.pk</a>
+  </footer>
+</body>
+
+</html>

@@ -1,0 +1,98 @@
+body{
+
+         background-color: #3399CC;
+         color: #666666;
+         font-family: Verdana, Arial, sans-serif;
+         background-image: linear-gradient(to bottom, #3399CC, #C2E0F0, #3399CC );
+         width: 1200px;
+         margin-left: 300px;
+        border: 5px solid black;
+                                           }
+
+
+
+
+main { margin-top: -15px;}
+
+
+h1{
+         margin-top: -25;
+         background-color: #000033;
+         color: #FFFFFF;
+         font-family: Georgia, serif;
+         line-height: 200%;
+         background-image: url(sunset.jpg);
+         background-repeat: no-repeat;
+         background-position: right;
+         padding-left: 2em;
+         height: 80px;                                   }
+
+h2{
+
+         color:#3399CC;
+         font-family: Georgia, serif;
+                                                             }
+
+nav{
+
+         font-weight: bold;
+         float: left;
+         margin-top: -25px;
+         height: 700px;
+         width: 170px;
+         background-color:  #000033;
+
+
+                                                               }
+
+
+
+nav a { padding-left: 2em;
+
+   color: #FFFFFF;}
+
+.resort{
+
+          color: #000033;
+          font-size: 1.2em;
+
+        }
+
+
+footer{
+
+          font-size: .70em;
+          font-style: italic;
+          text-align: center;
+          padding: 1em;
+                                                              }
+
+h3{
+
+         color: #000033;
+
+                                                              }
+#content{ margin-top: -5px;  padding-left: 200px; background-color: #FFFFFF;}
+
+
+#homehero{
+
+            background-size: 100%,100%;
+            margin-top: -25px;
+            background-repeat: no-repeat;
+
+                                                                }
+
+
+#yurthero{
+           margin-top: -25px;
+            background-size: 100%, 100%;
+            background-repeat: no-repeat;
+                                                               }
+
+#trailhero{
+             margin-top: -25px;
+
+             background-size: 100%, 100%;
+             background-repeat: no-repeat;
+                                                                }

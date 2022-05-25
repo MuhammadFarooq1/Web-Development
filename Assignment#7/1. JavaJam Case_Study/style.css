@@ -1,0 +1,157 @@
+body{
+         background-color: #FCEBB6; color: #221811;
+         font-family: Verdana, Arial, sans-serif;
+         background-image: url(background.gif);
+         width: 1400px;
+         margin-left: 300px;
+
+                                                          }
+
+*{
+
+          box-sizing:  border-box;
+          color: black;
+                                                             }
+
+header{
+
+          height: 150px;
+          background-image: url(javajamlogo.jpg);
+          background-repeat: no-repeat;
+}
+
+
+h1{
+          background-color: #D2B48C;
+          text-align:left;
+          margin-top: -150px;
+          margin-left: 210px;
+          padding-left: 60px;
+          height: 145px;
+          font-size: 3em;
+                                                          }
+
+nav{
+         text-align: center;
+         font-weight: bold;
+         font-size: 1.5em;
+         background-color: #231814;
+         float: left;
+         width: 210px;
+         height: 375px;
+                                                          }
+
+nav a {
+
+        text-decoration: none;
+         color: #FEF6C2;                                  }
+
+nav ul {
+
+           padding-left: 50px;
+                                                          }
+
+
+nav a:link { color: #FEF6C2;}
+nav a:visited {color: #D2B48C;}
+nav a:hover {color: #CC9933;}
+
+
+
+footer{
+          background-color: #D2B48C;
+          text-align: center;
+          font-size: .60em;  font-weight: italics;
+          padding-bottom: 10px;
+          border-top: solid 2px #221811;                   }
+
+
+#wrapper{
+            background-color: #231814;
+            min-width: 900px;
+            max-width: 1280px;
+            box-shadow: drop-shadow;
+            margin-right:auto;
+            margin-left: auto;
+            width: 80%;                                 }
+
+h4{
+
+            background-color: #D2B48C;
+            font-size: 1.2em;
+            padding-left: .5em;
+            padding-bottom: .25em;
+            border-bottom: 0;
+            padding-bottom: 0;
+
+
+                                                        }
+
+.floatleft {
+
+            float: left;
+            padding-right: 2em;
+            padding-bottom: 2em;
+}
+
+
+main{
+           margin-top: -20px;
+           padding: 0,0,2em,0;
+           margin-left: 210px;
+           background-color: #FEF6C2;
+
+                                                        }
+h2, h3, h4, p, div, ul, dl {
+
+           padding-left: 3em;
+           padding-right: 2em;
+}
+
+.details{
+
+            padding-left: 10px;
+            padding-right: 10px;
+            overflow: auto;
+
+                                                         }
+
+header, nav, main, footer { display: block;}
+
+img{
+
+
+            padding-left: 10px;
+            padding-right: 10px;
+                                                         }
+
+#heroroad{
+
+            background-image: url(heroroad.jpg);
+            background-size: 100%;
+            width: 500px;
+            height: 250px;
+                                                          }
+
+#heromugs{
+
+          background-image: url(heromugs.jpg);
+          background-size: 70%;
+          height: 300px;
+          width: 1190px;
+
+                                                           }
+
+#heroguitar{
+
+           background-image: url(heroroad.jpg);
+           background-size: 100%;
+           height: 250px;
+
+                                                            }
+
+#description{margin-left: 50px;}
+
+
+#menu{ height: 685px; }
+#music{ height: 730px; }
